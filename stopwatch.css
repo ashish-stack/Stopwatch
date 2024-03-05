@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+    background-color: rgb(5, 5, 83);
+    color: white;
+}
+.watchdesign{
+    border: 2px solid rgb(230, 106, 106);
+    border-radius: 30px;
+    width: 30%;
+    margin: 20% auto;
+    height: 200px;
+    text-align: center;
+}
+
+.watchdesign p{
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.watchdesign button{
+    height: 40px;
+    width: 70px;
+    background-color: rgb(78, 150, 212);
+    font-weight: bold;
+    font-size: large;
+    margin-right: 20px;
+}
